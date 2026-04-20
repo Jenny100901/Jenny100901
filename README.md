@@ -4,3 +4,5 @@
 - [HackerRank](https://www.hackerrank.com/profile/jason11160)
 - [Codewars](https://www.codewars.com/users/jason11160)
 
+- 初學者^^
+
